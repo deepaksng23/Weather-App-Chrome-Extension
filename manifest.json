@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Weather App",
+  "version": "0.0.1",
+  "icons": {
+    "128": "./images/icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
